@@ -57,16 +57,12 @@ const styles = StyleSheet.create({
   main: {
     flex: 1,
     flexDirection: 'column',
-    alignContent: 'center',
     justifyContent: 'space-evenly',
     alignItems: 'center',
     backgroundColor: '#222',
     padding: 5
   },
   inline: {
-    flex: 1,
     flexDirection: 'row',
-    justifyContent: 'center',
-    height: 5
   }
 })
